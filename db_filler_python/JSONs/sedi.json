@@ -1,0 +1,118 @@
+[
+    {
+        "nome": "Galleria degli Uffizi",
+        "Stato": "Italia",
+        "coordinate": [
+            43.768439,
+            11.2559
+        ],
+        "Indirizzo": "Piazzale degli Uffizi 6, I-50122 Firenze",
+        "Tipo": "Arte",
+        "Istituzione": "1560",
+        "Apertura": "1581",
+        "Proprieta": "Ministero della cultura",
+        "Visitatori": "2361732 (2019)",
+        "luogo": "Firenze"
+    },
+    {
+        "nome": "Ponte Vecchio",
+        "Stato": "Italia",
+        "coordinate": [
+            43.767989,
+            11.253192
+        ],
+        "Attraversa": "Arno",
+        "Tipo": "ponte ad arco",
+        "Materiale": "pietraforte",
+        "Lunghezza": "95 m",
+        "Progettisti": "Taddeo Gaddio Neri Fioravanti",
+        "Costruzione": "1339 circa-1345",
+        "Inaugurazione": "1345",
+        "luogo": "Firenze"
+    },
+    {
+        "nome": "Museo della citta",
+        "Stato": "Italia",
+        "coordinate": [
+            43.61934,
+            13.51189
+        ],
+        "luogo": "Ancona",
+        "Indirizzo": "Piazza del Plebiscito",
+        "Tipo": "storico"
+    },
+    {
+        "nome": "Pinacoteca civica Francesco Podesti",
+        "Stato": "Italia",
+        "coordinate": [
+            43.620785,
+            13.511146
+        ],
+        "luogo": "Ancona",
+        "Indirizzo": "Via Pizzecolli, 17 (ingresso temporaneo: vicolo Foschi)",
+        "Tipo": "Pinacoteca",
+        "Fondatori": "Francesco Podesti",
+        "Apertura": "1884"
+    },
+    {
+        "nome": "Museo diocesano di Ancona \"Mons. Cesare Recanatini\"",
+        "Stato": "Italia",
+        "coordinate": [
+            43.62563,
+            13.51016
+        ],
+        "luogo": "Ancona",
+        "Indirizzo": "piazzale del Duomo, 9",    
+        "Tipo": "religioso-storico"
+    },
+    {
+        "nome": "Pinacoteca di Brera",
+        "Stato": "Italia",
+        "coordinate": [
+            45.471943,
+            9.187683
+        ],
+        "luogo": "Milano",
+        "Indirizzo": "via Brera, 28 - Milano",
+        "Tipo": "pinacoteca",
+        "Intitolato a": "Palazzo di Brera",
+        "Istituzione": "1776",
+        "Fondatori": "Maria Teresa d'Austria",
+        "Apertura": "1776",
+        "Direttore": "James M. Bradburne",
+        "Visitatori": "417,976 (2019)"
+    },
+    {
+        "nome": "Pinacoteca Ambrosiana",
+        "Stato": "Italia",
+        "coordinate": [
+            45.46378,
+            9.185952
+        ],
+        "luogo": "Milano",
+        "Indirizzo": "Piazza Pio XI, 2 - Milano",
+        "Tipo": "pinacoteca",
+        "Intitolato a": "Sant'Ambrogio",
+        "Istituzione": "1618",
+        "Fondatori": "Federico Borromeo",
+        "Apertura": "1618",
+        "Proprieta": "Veneranda Biblioteca Ambrosiana",
+        "Gestione": "Collegio dei Dottori composto da ecclesiastici scelti dall\u2019Arcivescovo di Milano",
+        "Direttore": "Marco Ballarini",
+        "Visitatori": "77103 (2018)"
+    },
+    {
+        "nome": "Museo d'arte antica",
+        "Stato": "Italia",
+        "coordinate": [
+            45.4706,
+            9.17861
+        ],
+        "luogo": "Milano",
+        "Indirizzo": "Piazza Castello - 20121 Milano (MI)",
+        "Tipo": "scultura e arti applicate",
+        "Periodo storico collezioni": "Dall'epoca tardo romana al XVI secolo",
+        "Istituzione": "10 maggio 1900",
+        "Apertura": "10 maggio 1900"
+    }
+]
