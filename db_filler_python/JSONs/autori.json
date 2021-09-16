@@ -1,0 +1,54 @@
+[
+    {
+        "nome": "Carlo Crivelli",
+        "anno_nascita": 1435
+    },
+    {
+        "nome": "Tiziano Vecellio",
+        "anno_nascita": 1520
+    },
+    {
+        "nome": "Lorenzo Lotto",
+        "anno_nascita": 1480
+    },
+    {
+        "nome": "Pieter Paul Rubens",
+        "anno_nascita": 1577
+    },
+    {
+        "nome": "Giovanni da Milano",
+        "anno_nascita": 1325
+    },
+    {
+        "nome": "Bernardo Daddi",
+        "anno_nascita": 1290
+    },
+    {
+        "nome": "Andrea Mantegna",
+        "anno_nascita": 1431
+    },
+    {
+        "nome": "Cima da Conegliano",
+        "anno_nascita": 1459
+    },
+    {
+        "nome": "Paolo Veronese",
+        "anno_nascita": 1528
+    },
+    {
+        "nome": "Bernardino Scapi, detto Bernardino Luini",
+        "anno_nascita": 1482
+    },
+    {
+        "nome": "Michelangelo \"Caravaggio\" Merisi",
+        "anno_nascita": 1571
+    },
+    {
+        "nome": "Sandro Botticelli",
+        "anno_nascita": 1510
+    },
+    {
+        "nome": "Leonardo di ser Piero da Vinci",
+        "anno_nascita": 1452
+    }
+]

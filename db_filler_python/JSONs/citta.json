@@ -1,0 +1,22 @@
+[
+    {
+        "nome": "Firenze",
+        "latitude": 43.771389,
+        "longitude": 11.254167
+    },
+    {
+        "nome": "Ancona",
+        "latitude": 43.616667,
+        "longitude": 13.516667
+    },
+    {
+        "nome": "Verona",
+        "latitude": 45.438611,
+        "longitude": 10.992778
+    },
+    {
+        "nome": "Milano",
+        "latitude": 45.466944,
+        "longitude": 9.19
+    }
+]

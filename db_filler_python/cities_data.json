@@ -1,0 +1,323 @@
+[
+    {
+        "nome": "Firenze",
+        "latitude": 43.771389,
+        "longitude": 11.254167,
+        "monumenti": [
+            {
+                "nome": "Galleria degli Uffizi",
+                "Stato": "Italia",
+                "coordinate": [
+                    43.768439,
+                    11.2559
+                ],
+                "Località": "Firenze",
+                "Indirizzo": "Piazzale degli Uffizi 6, I-50122 Firenze",
+                "Tipo": "Arte",
+                "Istituzione": "1560",
+                "Apertura": "1581",
+                "Proprietà": "Ministero della cultura",
+                "Visitatori": "2361732 (2019)"
+            },
+            {
+                "nome": "Ponte Vecchio",
+                "Stato": "Italia",
+                "coordinate": [
+                    43.767989,
+                    11.253192
+                ],
+                "Città": "Firenze",
+                "Attraversa": "Arno",
+                "Tipo": "ponte ad arco",
+                "Materiale": "pietraforte",
+                "Lunghezza": "95 m",
+                "Progettisti": "Taddeo Gaddio Neri Fioravanti",
+                "Costruzione": "1339 circa-1345",
+                "Inaugurazione": "1345"
+            }
+        ]
+    },
+    {
+        "nome": "Ancona",
+        "latitude": 43.616667,
+        "longitude": 13.516667,
+        "monumenti": [
+            {
+                "nome": "Museo della città",
+                "Stato": "Italia",
+                "coordinate": [
+                    43.61934,
+                    13.51189
+                ],
+                "Località": "Ancona",
+                "Indirizzo": "Piazza del Plebiscito",
+                "Tipo": "storico"
+            },
+            {
+                "nome": "Pinacoteca civica Francesco Podesti",
+                "Stato": "Italia",
+                "coordinate": [
+                    43.620785,
+                    13.511146
+                ],
+                "Località": "Ancona",
+                "Indirizzo": "Via Pizzecolli, 17 (ingresso temporaneo: vicolo Foschi)",
+                "Tipo": "Pinacoteca",
+                "Fondatori": "Francesco Podesti",
+                "Apertura": "1884",
+				"Opere": [
+					{
+                        "nome": "Madonna col Bambino",
+                        "Autore": {
+                            "nome": "Carlo Crivelli",
+                            "anno_nascita": 1435,
+                            "periodi": [ "Early renaissance", "Rinascimento Italiano", "Rinascimento", "Gotico" ]
+                        },
+                        "Data": "1480 circa",
+                        "Tecnica": "tempera e oro su tavola",
+                        "Dimensioni": "21x15cm",
+                        "Ubicazione": "Pinacoteca civica Francesco Podesti, Ancona"
+					},
+					{
+                        "nome": "Pala Gozzi",
+                        "Autore": {
+                            "nome": "Tiziano Vecellio",
+                            "anno_nascita": 1520,
+                            "periodi": [ 
+                                {
+                                    "nome": "Manierismo",
+                                    "anno": ""
+                                }, 
+                                "Alto Rinascimento", "Rinascimento italiano", "Rinascimento", "Pittura veneta" ]
+                        },
+                        "Data": "1520",
+                        "Tecnica": "Tecnica mista su tavola",
+                        "Dimensioni": "312x215cm",
+                        "Ubicazione": "Pinacoteca civica Francesco Podesti, Ancona"
+					},
+					{
+                        "nome": "Pala dell'Alabarda",
+                        "Autore": {
+                            "nome": "Lorenzo Lotto",
+                            "anno_nascita": 1480,
+                            "periodi": [ "Alto Rinascimento", "Rinascimento", "Rinascimento italiano", "Pittura veneta" ]
+                        },
+                        "Data": "1539 circa",
+                        "Tecnica": "olio su tela",
+                        "Dimensioni": "294x216cm",
+                        "Ubicazione": "Pinacoteca civica Francesco Podesti, Ancona"
+					}
+				]
+            },
+            {
+                "nome": "Museo diocesano di Ancona \"Mons. Cesare Recanatini\"",
+                "Stato": "Italia",
+                "coordinate": [
+                    43.62563,
+                    13.51016
+                ],
+                "Località": "Ancona",
+                "Indirizzo": "piazzale del Duomo, 9",    
+                "Tipo": "religioso-storico",
+				"Opere": [
+					{
+                        "nome": "L'istituzione dell'Eucaristia",
+                        //autore deve essere un oggetto
+                        "Autore": "Pieter Paul Rubens",
+                        "Data": "1630-1650",
+                        "Tecnica": "Arazzo",
+                        "Dimensioni": "505x350cm",
+                        "Ubicazione": "Museo diocesano di Ancona, Ancona"
+					}
+				]
+            }
+        ]
+    },
+    {
+        "nome": "Verona",
+        "latitude": 45.438611,
+        "longitude": 10.992778,
+        "monumenti": []
+    },
+    {
+        "nome": "Milano",
+        "latitude": 45.466944,
+        "longitude": 9.19,
+        "monumenti": [
+            {
+                "nome": "Pinacoteca di Brera",
+                "Stato": "Italia",
+                "coordinate": [
+                    45.471943,
+                    9.187683
+                ],
+                "Località": "Palazzo di Brera",
+                "Indirizzo": "via Brera, 28 - Milano",
+                "Tipo": "pinacoteca",
+                "Intitolato a": "Palazzo di Brera",
+                "Istituzione": "1776",
+                "Fondatori": "Maria Teresa d'Austria",
+                "Apertura": "1776",
+                "Direttore": "James M. Bradburne",
+                "Visitatori": "417,976 (2019)",
+				"Opere": [
+					{
+                        "nome": "Cristo in trono adorato da angeli",
+                        "Autore": {
+                            "nome": "Giovanni da Milano",
+                            "anno_nascita": 1325,
+                            "periodi": []
+                        },
+                        "Data": "1371 circa",
+                        "Tecnica": "tempera e oro su tavola",
+                        "Dimensioni": "152,3x68,5cm",
+                        "Ubicazione": "Pinacoteca di Brera, Milano"
+					},
+					{
+                        "nome": "San Lorenzo",
+                        "Autore": {
+                            "nome": "Bernardo Daddi",
+                            "anno_nascita": 1290,
+                            "periodi": [ "Rinascimento italiano", "Rinascimento", "Gotico", "Scuola fiorentina" ]
+                        },
+                        "Data": "1340 circa",
+                        "Tecnica": "tempera e oro su tavola",
+                        "Dimensioni": "43x24cm",
+                        "Ubicazione": "Pinacoteca di Brera, Milano"
+					},
+					{
+                        "nome": "Madonna col Bambino e un coro di cherubini",
+                        "Autore": {
+                            "nome": "Andrea Mantegna",
+                            "anno_nascita": 1431,
+                            "periodi": [ "Early renaissance", "Alto Rinascimento", "Rinascimento", "Rinascimento italiano", "Scuola padovana" ]
+                        },
+                        "Data": "1485",
+                        "Tecnica": "tempera su tavola",
+                        "Dimensioni": "88x70cm",
+                        "Ubicazione": "Pinacoteca di Brera, Milano"
+					},
+					{
+						"nome": "San Pietro in trono con i santi Giovanni Battista e Paolo",
+						"Autore": {
+                            "nome": "Cima da Conegliano",
+                            "anno_nascita": 1459,
+                            "periodi": [ "Rinascimento", "Pittura veneta" ]
+                        },
+						"Data": "1516",
+						"Tecnica": "Olio su tavola",
+						"Dimensioni": "155x146cm",
+						"Ubicazione": "Pinacoteca di Brera, Milano"
+					},
+					{
+						"nome": "Cena in casa di Simone",
+						"Autore": {
+                            "nome": "Paolo Veronese",
+                            "anno_nascita": 1528,
+                            "periodi": [ "Rinascimento", "Pittura veneta", "Manierismo" ]
+                        },
+						"Data": "1570",
+						"Tecnica": "Olio su tela",
+						"Dimensioni": "275x710cm",
+						"Ubicazione": "Pinacoteca di Brera, Milano"
+					}
+				]
+            },
+            {
+                "nome": "Pinacoteca Ambrosiana",
+                "Stato": "Italia",
+                "coordinate": [
+                    45.46378,
+                    9.185952
+                ],
+                "Località": "Milano",
+                "Indirizzo": "Piazza Pio XI, 2 - Milano",
+                "Tipo": "pinacoteca",
+                "Intitolato a": "Sant'Ambrogio",
+                "Istituzione": "1618",
+                "Fondatori": "Federico Borromeo",
+                "Apertura": "1618",
+                "Proprietà": "Veneranda Biblioteca Ambrosiana",
+                "Gestione": "Collegio dei Dottori composto da ecclesiastici scelti dall\u2019Arcivescovo di Milano",
+                "Direttore": "Marco Ballarini",
+                "Visitatori": "77103 (2018)",
+				"Opere": [
+					{
+						"nome": "Sacra Famiglia con sant'Anna e san Giovannino",
+                        "Autore": {
+                            "nome": "Bernardino Scapi, detto Bernardino Luini",
+                            "anno_nascita": 1482,
+                            "periodi": []
+                        },
+                        "Data": "1530 circa",
+                        "Tecnica": "olio su tavola",
+                        "Dimensioni": "118x92cm",
+                        "Ubicazione": "Pinacoteca Ambrosiana, Milano"
+					},
+					{
+						"nome": "Canestra di frutta",
+                        "Autore": {
+                            "nome": "Michelangelo \"Caravaggio\" Merisi",
+                            "anno_nascita": 1571,
+                            "periodi": [ "Barocco", "Barocco italiano", "Pittura barocca", "Rinascimento" ]
+                        },
+                        "Data": "1597-1600",
+                        "Tecnica": "olio su tela",
+                        "Dimensioni": "46x64cm",
+                        "Ubicazione": "Pinacoteca Ambrosiana, Milano"
+					},
+					{
+						"nome": "Madonna del Padiglione",
+                        "Autore": {
+                            "nome": "Sandro Botticelli",
+                            "anno_nascita": 1510,
+                            "periodi": [ "Early renaissance", "Rinascimento", "Rinascimento italiano", "Scuola fiorentina", "Alto Rinascimento" ]
+                        },
+                        "Data": "1493 circa",
+                        "Tecnica": "tempera su tavola",
+                        "Dimensioni": "65x65cm",
+                        "Ubicazione": "Pinacoteca Ambrosiana, Milano"
+					},
+					{
+						"nome": "Ritratto di musico",
+                        "Autore": {
+                            "nome": "Leonardo di ser Piero da Vinci",
+                            "anno_nascita": 1452,
+                            "periodi": [ "Alto Rinascimento, Early renaissance", "Rinascimento", "Rinascimento italiano, Scuola fiorentina" ]
+                        },
+                        "Data": "1485 circa",
+                        "Tecnica": "olio su tavola",
+                        "Dimensioni": "44,7x32cm",
+                        "Ubicazione": "Pinacoteca Ambrosiana, Milano"
+					},
+					{
+						"nome": "Madonna che allatta il Bambino",
+                        "Autore": {
+                            "nome": "Bernardino Scapi, detto Bernardino Luini",
+                            "anno_nascita": 1482,
+                            "periodi": []
+                        },
+                        "Data": "Prima metà del XVI sec.",
+                        "Tecnica": "tempera e olio su tavola",
+                        "Dimensioni": "51x41cm",
+                        "Ubicazione": "Pinacoteca Ambrosiana, Milano"
+					}
+				]
+            },
+            {
+                "nome": "Museo d'arte antica",
+                "Stato": "Italia",
+                "coordinate": [
+                    45.4706,
+                    9.17861
+                ],
+                "Località": "Milano",
+                "Indirizzo": "Piazza Castello - 20121 Milano (MI)",
+                "Tipo": "scultura e arti applicate",
+                "Periodo storico collezioni": "Dall'epoca tardo romana al XVI secolo",
+                "Istituzione": "10 maggio 1900",
+                "Apertura": "10 maggio 1900"
+            }
+        ]
+    }
+]
